@@ -1,0 +1,11 @@
+
+{
+    "mcpServers":{
+        "weather":{
+            "command": "uv",
+            "args":[
+                "run","--with","mcp[cli]","mcp","run","E:\\mcpcourse\\mcpcarshcourse\\server\\weather.py"
+            ]
+        }
+    }
+}
